@@ -25,6 +25,8 @@ namespace LazyLoading
 
             Console.WriteLine();
 
+            Console.WriteLine();
+
             //Eager Loading
 
             var eagerLoading = new LazyLoadingContext();
